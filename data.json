@@ -1,0 +1,59 @@
+{
+  "blogposts": [
+    {
+      "id": "1",
+      "title": "new blog post 1",
+      "featured": "false",
+      "img": "http://placeimg.com/640/360/any",
+      "article": "It’s no secret that blogs are the pillar of any successful company website. A frequently updated blog will drive traffic to the brand, guide users with targeted content, and act as a vital tool to engage with the broader community. Alongside being a low-cost marketing strategy with a lucrative payoff, blogs are also the perfect way to establish your brand identity and grow a loyal following.<br><br>Creating engaging, information-rich content for your readers, however, is only half of the job: equally important is presenting the content in a visually stimulating way. When it comes to blog design, there are a variety of different factors to look at—from font sizes and text width, to hierarchy and calls-to-action. Uninspiring blog design is a sure fire way to lose interest—or even customers.<br><br>Are you a budding UI designer exasperated by boring blogs? We’ve rounded up ten blogs and online magazines that showcase the very best of creative editorial design. To help us on our way, I’ve enlisted the expertise of CareerFoundry’s resident UI designer Amy, who’ll be shedding light on why each blog has hit the nail on the head with their UI design.",
+      "timestamp": "1597806113530",
+      "author": {
+        "name": "dulanka 1"
+      }
+    },
+    {
+      "id": "2",
+      "title": "new blog post 2",
+      "featured": "false",
+      "img": "http://placeimg.com/640/360/any",
+      "article": "It’s no secret that blogs are the pillar of any successful company website. A frequently updated blog will drive traffic to the brand, guide users with targeted content, and act as a vital tool to engage with the broader community. Alongside being a low-cost marketing strategy with a lucrative payoff, blogs are also the perfect way to establish your brand identity and grow a loyal following.<br><br>Creating engaging, information-rich content for your readers, however, is only half of the job: equally important is presenting the content in a visually stimulating way. When it comes to blog design, there are a variety of different factors to look at—from font sizes and text width, to hierarchy and calls-to-action. Uninspiring blog design is a sure fire way to lose interest—or even customers.<br><br>Are you a budding UI designer exasperated by boring blogs? We’ve rounded up ten blogs and online magazines that showcase the very best of creative editorial design. To help us on our way, I’ve enlisted the expertise of CareerFoundry’s resident UI designer Amy, who’ll be shedding light on why each blog has hit the nail on the head with their UI design.",
+      "timestamp": "1597806113530",
+      "author": {
+        "name": "dulanka 3"
+      }
+    },
+    {
+      "id": "3",
+      "title": "new blog post 3",
+      "featured": "false",
+      "img": "http://placeimg.com/640/360/any",
+      "article": "It’s no secret that blogs are the pillar of any successful company website. A frequently updated blog will drive traffic to the brand, guide users with targeted content, and act as a vital tool to engage with the broader community. Alongside being a low-cost marketing strategy with a lucrative payoff, blogs are also the perfect way to establish your brand identity and grow a loyal following.<br><br>Creating engaging, information-rich content for your readers, however, is only half of the job: equally important is presenting the content in a visually stimulating way. When it comes to blog design, there are a variety of different factors to look at—from font sizes and text width, to hierarchy and calls-to-action. Uninspiring blog design is a sure fire way to lose interest—or even customers.<br><br>Are you a budding UI designer exasperated by boring blogs? We’ve rounded up ten blogs and online magazines that showcase the very best of creative editorial design. To help us on our way, I’ve enlisted the expertise of CareerFoundry’s resident UI designer Amy, who’ll be shedding light on why each blog has hit the nail on the head with their UI design.",
+      "timestamp": "1597806113530",
+      "author": {
+        "name": "dulanka 3"
+      }
+    },
+    {
+      "id": "4",
+      "title": "new blog post 4",
+      "featured": "false",
+      "img": "http://placeimg.com/640/360/any",
+      "article": "It’s no secret that blogs are the pillar of any successful company website. A frequently updated blog will drive traffic to the brand, guide users with targeted content, and act as a vital tool to engage with the broader community. Alongside being a low-cost marketing strategy with a lucrative payoff, blogs are also the perfect way to establish your brand identity and grow a loyal following.<br><br>Creating engaging, information-rich content for your readers, however, is only half of the job: equally important is presenting the content in a visually stimulating way. When it comes to blog design, there are a variety of different factors to look at—from font sizes and text width, to hierarchy and calls-to-action. Uninspiring blog design is a sure fire way to lose interest—or even customers.<br><br>Are you a budding UI designer exasperated by boring blogs? We’ve rounded up ten blogs and online magazines that showcase the very best of creative editorial design. To help us on our way, I’ve enlisted the expertise of CareerFoundry’s resident UI designer Amy, who’ll be shedding light on why each blog has hit the nail on the head with their UI design.",
+      "timestamp": "1597806113530",
+      "author": {
+        "name": "dulanka 4"
+      }
+    },
+    {
+      "id": "5",
+      "title": "featured post",
+      "featured": "true",
+      "img": "http://placeimg.com/640/360/any",
+      "article": "It’s no secret that blogs are the pillar of any successful company website. A frequently updated blog will drive traffic to the brand, guide users with targeted content, and act as a vital tool to engage with the broader community. Alongside being a low-cost marketing strategy with a lucrative payoff, blogs are also the perfect way to establish your brand identity and grow a loyal following.<br><br>Creating engaging, information-rich content for your readers, however, is only half of the job: equally important is presenting the content in a visually stimulating way. When it comes to blog design, there are a variety of different factors to look at—from font sizes and text width, to hierarchy and calls-to-action. Uninspiring blog design is a sure fire way to lose interest—or even customers.<br><br>Are you a budding UI designer exasperated by boring blogs? We’ve rounded up ten blogs and online magazines that showcase the very best of creative editorial design. To help us on our way, I’ve enlisted the expertise of CareerFoundry’s resident UI designer Amy, who’ll be shedding light on why each blog has hit the nail on the head with their UI design.",
+      "timestamp": "1597806113530",
+      "author": {
+        "name": "dulanka katugampala"
+      }
+    }
+  ]
+}
